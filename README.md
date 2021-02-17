@@ -1,4 +1,4 @@
-# Unit 20 - "Smart Contracts btween Company and Employees"
+# Smart Contracts btween Company and Employees:
 
 *In this project I'll be creating smart contract to auotamate my company finances with employees using Solidity.* **My task is to create the following contracts:**
 
@@ -17,27 +17,27 @@
 2- Deposit Function: This function is made for the onwer to make calls.
 3- Fallback Function: This will ensure that the logic in deposit function is exceuted properly. 
 #### MetaMask Confirmation Screenshot
-* ['MetaMask Test'](Images/level_1_Metamask.png)
+['MetaMask Test'](Images/level_1_Metamask.png)
 
 #### Ganache Confirmation Screenshot
-* ['Ganache Test'](Images/level_1_Ganache.png)
+['Ganache Test'](Images/level_1_Ganache.png)
 
 #### Solidity Confirmation Screenshot
-* ['Solidity Test'](Images/level_1_Solidity.png)
+['Solidity Test'](Images/level_1_Solidity.png)
 
 
 # Test the level 2 contract
 * In this contract the profits are distributed based on the percentage share for different tiers of employees (CEO, CTO, and Bob). The percentages are allocated and functions are made. THe link to my contract files are stated below:
-* [`TieredProfitSplitter.sol`](Starter-Code/TieredProfitSplitter.sol)
+[`TieredProfitSplitter.sol`](Starter-Code/TieredProfitSplitter.sol)
 
 #### MetaMask Confirmation Screenshot
-* ['MetaMask Test'](Images/level_2_Metamask.png)
+['MetaMask Test'](Images/level_2_Metamask.png)
 
 #### Ganache Confirmation Screenshot
-* ['Ganache Test'](Images/level_2_Ganache.png)
+['Ganache Test'](Images/level_2_Ganache.png)
 
 #### Solidity Confirmation Screenshot
-* ['Solidity Test'](Images/level_2_Solidity.png)
+['Solidity Test'](Images/level_2_Solidity.png)
 
 
 # Test the level 3 contract
